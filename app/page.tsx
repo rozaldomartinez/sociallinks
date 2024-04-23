@@ -13,7 +13,7 @@ export default function Home() {
 				/>
 				<p className = "text-white mb-1 text-2xl">Jessica Randall</p>
 				<p className = "text-mentor-green mb-6 text-sm">London, United Kingdom</p>
-				<p className = "text-white mb-5 text-sm">"Front-end developer and avid reader."</p>
+				<p className = "text-white mb-5 text-sm">&quot;Front-end developer and avid reader.&quot;</p>
 				<a href = "#" className = "w-auto bg-mentor-grey text-white block mb-4 rounded-md p-2 hover:bg-mentor-darkgrey">GitHub</a>
 				<a href = "#" className = "w-auto bg-mentor-grey text-white block mb-4 rounded-md p-2 hover:bg-mentor-darkgrey">Frontend Mentor</a>
 				<a href = "#" className = "w-auto bg-mentor-grey text-white block mb-4 rounded-md p-2 hover:bg-mentor-darkgrey">LinkedIn</a>
